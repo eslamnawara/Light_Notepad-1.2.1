@@ -1,10 +1,18 @@
-# Light_Notepad-1.2.1
+# Light Notepad - Version 1.2.1
 
-Version 1.2.1 of the project. Let me know if you would like another design.
+- Write and Save Rich Text.
+
+# Details
+
+- With Light_Notepad-1.2.1 tool you will be able to write, save and open easily all your rich texts.
+
+You can check the Screenshot.jpg or take a look at http://imgur.com/a/WF4Ix to see how the tool looks like.
 
 Feel free to report any bug or development ideas.
 
-- http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
+Website = http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
+
+# Contact
 
 - https://github.com/eslamnawara
 
