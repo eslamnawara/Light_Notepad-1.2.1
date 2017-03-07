@@ -1,6 +1,6 @@
 # Property  :star2:
 
-The project " **Light Notepad** " (convert my Photos into Icons) is the exclusive property of Mr *Eslam Nawara* (Lyon).
+The project " **Light Notepad** " (write and Save Rich Text) is the exclusive property of Mr *Eslam Nawara* (Lyon).
 
 Feel free to contact me for all right questions or requests.
 
